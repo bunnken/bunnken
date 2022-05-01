@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bunnken
 - 👀 I’m interested in linux, low level programming and game development
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Haxe with Kha
 - 💞️ I’m looking to collaborate on anything that can widen my skillset, ranging from game development to GUI and web services
 - 📫 You can contact me via email at eugeniomarconicchio@protonmail.com
 
