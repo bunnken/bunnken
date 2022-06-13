@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bunnken
-- 👀 I’m interested in linux, low level programming and game development
-- 🌱 I’m currently learning Haxe with Kha
-- 💞️ I’m looking to collaborate on anything that can widen my skillset, ranging from game development to GUI and web services
-- 📫 You can contact me via email at eugeniomarconicchio@protonmail.com
+- 👀 I’m interested in Linux and Web Development in Go
+- 🌱 I’m currently mastering Go
+- 💞️ I’m looking to collaborate on anything that can widen my skillset
+- 📫 You can contact me via email at e.marconicchio@pm.me
 
 <!---
 bunnken/bunnken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
